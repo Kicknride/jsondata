@@ -1,7 +1,7 @@
 {
   "graph": [ 
     {
-      "id": "bar1",
+      "id": 1,
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
