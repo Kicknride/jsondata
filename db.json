@@ -270,6 +270,7 @@
       "id": 8,
       "type": "Pie",
       "title": "Taux de performance Z-1",
+      "rowspan": 2,
       "labels": ["Red", "Green", "Yellow", "Grey", "Dark Grey"],
       "datasets": [
         {
