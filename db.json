@@ -2,6 +2,8 @@
   "graph": [ 
     {
       "id": 1,
+      "type": "Bar",
+      "title": "Taux de performance X-1",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
@@ -29,6 +31,8 @@
     },
     {
       "id": 2,
+      "type": "Bar",
+      "title": "Taux de performance X-2",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
@@ -56,6 +60,8 @@
     },
     {
       "id": 3,
+      "type": "Bar",
+      "title": "Taux de performance X-3",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
@@ -83,6 +89,8 @@
     },
     {
       "id": 4,
+      "type": "Bar",
+      "title": "Taux de performance X-4",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
@@ -110,6 +118,8 @@
     },
     {
       "id": 5,
+      "type": "Line",
+      "title": "Taux de performance Y-1",
       "labels": ["January", "February", "March", "April", "May", "June", "July"],
       "datasets": [
         {
@@ -158,6 +168,8 @@
     },
     {
       "id": 6,
+      "type": "Line",
+      "title": "Taux de performance Y-2",
       "labels": ["January", "February", "March", "April", "May", "June", "July"],
       "datasets": [
         {
@@ -206,6 +218,8 @@
     },
     {
       "id": 7,
+      "type": "Line",
+      "title": "Taux de performance Y-3",
       "labels": ["January", "February", "March", "April", "May", "June", "July"],
       "datasets": [
         {
@@ -254,6 +268,8 @@
     },
     {
       "id": 8,
+      "type": "Pie",
+      "title": "Taux de performance Z-1",
       "labels": ["Red", "Green", "Yellow", "Grey", "Dark Grey"],
       "datasets": [
         {
